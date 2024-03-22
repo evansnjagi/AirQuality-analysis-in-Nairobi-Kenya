@@ -1,1 +1,10 @@
-
+This a small preview about the data used:
+dataset containing measurements of particulate matter (PM),
+temperature, and humidity obtained from low-cost sensors. 
+Particulate matter refers to tiny particles suspended in the air, 
+which can have various sources such as combustion processes, 
+industrial activities, and natural sources like dust and pollen.
+PM is often categorized based on its size, 
+with PM2.5 (particles with a diameter of 2.5 micrometers or smaller) 
+and PM10 (particles with a diameter of 10 micrometers or smaller) 
+being of particular concern due to their potential health effects when inhaled
